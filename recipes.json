@@ -3,12 +3,12 @@
     {
       "name": "best-burger",
       "description": "order it from wolt",
-      "images": ["link1": "/burger1", "link2": "/burger2"]
+      "images": ["/burger1", "/burger2"]
     },
     {
       "name": "best-pizza",
       "description": "order it from wolt",
-      "images": ["link1": "/pizza1", "link2": "/pizza2"]
+      "images": ["/pizza1", "/pizza2"]
     }
   ]
 }
